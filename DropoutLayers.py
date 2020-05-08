@@ -60,6 +60,7 @@ class ShiftDropout(nn.Module):
         return X
 
 
+
 def createDropoutLayers(DO_type, num_layers, p=0.5):
     # Given a list of probabilities, make each layer accordingly.
     # Given a single value, make all layers based on that value.
