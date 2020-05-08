@@ -9,11 +9,13 @@ function for generating a module list of activation function layers, given a fun
 and any relevent arguments. Some of these are functions I did not write from scratch and
 only call from a Torch library, but I included them nontheless for comparison and ease of use.
 
+
 **--DropoutLayers.py--**
 
 Identical in function and form to ActivationFunctions, the only difference being that I define 
 dropout classes here, and have a function which creates a list of layers of them given relevent 
 arguments.
+
 
 **--PruningNet.py--**
 
