@@ -1,5 +1,5 @@
 # Custom-PyTorch-Resources
- Classes and functions for hidden unit activation functions, regularization, and pruning. Some are implementations of existing methods, some (largely the pruning methods) were created by me.
+ Classes and functions for hidden unit activation functions, regularization, and pruning. Some are implementations of existing methods, some (largely the pruning methods) were created by me. I've also added my write-up of the project for which I wrote most of the code.
 
 **--ActivationFunctions.py--**
 
